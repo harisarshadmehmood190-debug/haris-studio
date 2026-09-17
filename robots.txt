@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /haris-studio.html
+Allow: /$
+Disallow: /admin.html
+
+Sitemap: https://harisstudio.com/sitemap.xml
